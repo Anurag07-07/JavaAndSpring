@@ -1,0 +1,36 @@
+Day 1
+Java is portable because of JVM
+Java is Simple and Secure
+JVM used to understand byte code in any Operating System
+JVM us platform independent but Java is not
+JVM run bytecode in secured environment
+
+Java is used in Backend
+Read about servlets and applets
+
+
+Day 2
+JVM : Java Virtual Machine
+Java src code convert in byte code using compiler 
+To run byte code we need JVM which is different for different platform 
+Byte code converted into Machine code using JVM 
+
+JRE : Java Runtime Environment
+      JVM + Class libraries(Internal Librairies for printing in console, read and write file)
+
+
+Java is both compiled and Interpreted Language
+
+Conversion from src code to byte code uses compiler
+Conversion from byte code to machine code use interpretor
+Nowdays JVM uses interpretor + JIT compiler for conversion
+
+JVM provide security using Sandbox Model(Safe Environment)
+JVM provide Garbage Collection 
+
+JDK : Java Developement Kit
+JRE + Compiler + Debugger + Java Docs etc...
+
+JSE : Java Standard Edition (Core Java)
+JEE : Java Enterprise Edition or Jakarta EE (Webapps and all...) 
+JME : Java Micro Edition  
