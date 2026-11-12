@@ -20,7 +20,7 @@ public class Main{
         
         
         //Every Number in Java is Signed
-        // float number1 = 4.5; //Less Precice
+        float number1 = 4.5f; //Less Precice
         double number2 = 4.564554544; //More Precice
         
 
